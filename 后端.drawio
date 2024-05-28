@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-05-28T05:24:32.007Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36 Edg/123.0.0.0" etag="mS2fzeMdBpKdsM3mzwfP" version="24.4.9" type="github">
+<mxfile host="app.diagrams.net" modified="2024-05-28T05:24:57.637Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36 Edg/123.0.0.0" etag="CbzxtYhNI2Y8Ed5mKIxT" version="24.4.9" type="github">
   <diagram name="第 1 页" id="nvQce1N_u7E6IXuI6mkc">
     <mxGraphModel dx="1154" dy="656" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -30,6 +30,9 @@
         </mxCell>
         <mxCell id="y5WzmukbtOXT9IDPHK0q-12" value="" style="shape=mxgraph.signs.transportation.airplane_5;html=1;pointerEvents=1;fillColor=#000000;strokeColor=none;verticalLabelPosition=bottom;verticalAlign=top;align=center;" vertex="1" parent="1">
           <mxGeometry x="630" y="197" width="20" height="23" as="geometry" />
+        </mxCell>
+        <mxCell id="y5WzmukbtOXT9IDPHK0q-13" value="仿真引擎" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="55" y="227" width="70" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
