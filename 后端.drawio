@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-05-29T06:38:53.163Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36 Edg/123.0.0.0" etag="pypbIiZvGrohBDRLyzhB" version="24.4.9" type="github">
+<mxfile host="app.diagrams.net" modified="2024-05-29T06:39:57.700Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36 Edg/123.0.0.0" etag="pmHStvqZVlgtydVH4g4G" version="24.4.9" type="github">
   <diagram name="第 1 页" id="nvQce1N_u7E6IXuI6mkc">
     <mxGraphModel dx="2019" dy="1148" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -155,8 +155,8 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="0YGjtnQpsca83px1SI2z-12" value="态势" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="105" y="128" width="50" height="30" as="geometry" />
+        <mxCell id="0YGjtnQpsca83px1SI2z-12" value="&lt;span style=&quot;background-color: rgb(255, 135, 227);&quot;&gt;1.态势&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="100" y="128" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="0YGjtnQpsca83px1SI2z-13" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="0YGjtnQpsca83px1SI2z-10" target="y5WzmukbtOXT9IDPHK0q-7">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -164,11 +164,11 @@
             <mxPoint x="300" y="70" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="0YGjtnQpsca83px1SI2z-14" value="消费态势数据" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="260" y="126.53" width="100" height="30" as="geometry" />
+        <mxCell id="0YGjtnQpsca83px1SI2z-14" value="&lt;span style=&quot;background-color: rgb(255, 161, 249);&quot;&gt;2.消费态势数据&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="255" y="126.53" width="110" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="0YGjtnQpsca83px1SI2z-15" value="态势数据" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="395" y="218" width="70" height="30" as="geometry" />
+        <mxCell id="0YGjtnQpsca83px1SI2z-15" value="&lt;span style=&quot;background-color: rgb(255, 161, 242);&quot;&gt;3.态势数据&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="390" y="218" width="80" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
