@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-05-29T06:37:55.170Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36 Edg/123.0.0.0" etag="4Yp5D5MzY_ipmRKTui0A" version="24.4.9" type="github">
+<mxfile host="app.diagrams.net" modified="2024-05-29T06:38:53.163Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36 Edg/123.0.0.0" etag="pypbIiZvGrohBDRLyzhB" version="24.4.9" type="github">
   <diagram name="第 1 页" id="nvQce1N_u7E6IXuI6mkc">
-    <mxGraphModel dx="2846" dy="1148" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2019" dy="1148" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -119,14 +119,8 @@
         <mxCell id="tQOqcrSF_wCH08Ldc5CH-13" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;websocket&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="395" y="196.5" width="70" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="tQOqcrSF_wCH08Ldc5CH-14" value="&lt;span style=&quot;background-color: rgb(241, 255, 48);&quot;&gt;3. (x,y，前端屏幕位置信息) ==&amp;gt; 地图坐标(x1,y1)&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="195" y="156.53" width="280" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="tQOqcrSF_wCH08Ldc5CH-15" value="&lt;span style=&quot;background-color: rgb(255, 255, 56);&quot;&gt;4.（x1,y1）&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="145" y="181" width="90" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="tQOqcrSF_wCH08Ldc5CH-16" value="&lt;span style=&quot;background-color: rgb(255, 255, 56);&quot;&gt;5. 计算得到物体id，&lt;br&gt;框选+高亮&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="-15" y="142" width="130" height="40" as="geometry" />
+        <mxCell id="tQOqcrSF_wCH08Ldc5CH-14" value="&lt;span style=&quot;background-color: rgb(241, 255, 48);&quot;&gt;3. (x,y，前端屏幕位置信息) ==&amp;gt; 地图坐标(x1,y1)，object_id&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="165" y="156.53" width="340" height="30" as="geometry" />
         </mxCell>
         <mxCell id="tQOqcrSF_wCH08Ldc5CH-18" value="" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#232F3D;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.camera2;" parent="1" vertex="1">
           <mxGeometry x="606" y="139.79" width="38" height="30.21" as="geometry" />
